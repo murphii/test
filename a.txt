@@ -1,1 +1,4 @@
-Commit 1
+1. git init สร้าง repository
+2. git status ดูสถานะ
+3. git add เพิ่มไฟล์ลงใน
+4. git commit เซฟ?
